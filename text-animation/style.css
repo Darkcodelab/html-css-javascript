@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#container{
+    width:100%;
+    height:100vh;
+    padding: 10%;
+    color: white;
+    background: rgb(1, 1, 14);
+    font-size: 3.5em;
+}
+b{
+    background: rgb(206, 206, 1);
+    padding: 7px;
+    color: blue;
+    margin:2px;
+}
