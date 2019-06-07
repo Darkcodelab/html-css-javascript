@@ -1,4 +1,4 @@
-const texts = ['developer', 'designer', 'programmer', 'teacher'];
+const texts = ['developer', 'designer', 'speaker', 'teacher'];
 var count = 0;
 const text = document.getElementById('text');
 function type(){
