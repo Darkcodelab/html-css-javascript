@@ -8,7 +8,7 @@
     height: 100vh;
     display: flex;
     background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
-    justify-contents: center;
+    justify-content: center;
     align-items: center;
     font-size: 3rem;
 }
